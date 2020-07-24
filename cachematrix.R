@@ -20,7 +20,7 @@ getInverse=getInverse)
 
 #second function cacheSolve
 #computes the inverse of the special matrix returned by the above function
-#decides to either calculate or retrive the cache 
+ #decides to either calculate or retrive the cache 
 
 cacheSolve <- function(x,...){
 ## Return a matrix that is the inverse of 'x'
